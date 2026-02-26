@@ -17,3 +17,14 @@
 - Data Maybe
 - Módulos en Haskell (usar existentes y crear propios)
 
+-------
+Para profundizar:
+
+Sobre interpretes: https://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf (Pags. 95-99) 
+
+BNF: https://condor.depaul.edu/ichu/csc447/notes/wk3/BNF.pdf
+
+BNF: https://cs61.seas.harvard.edu/site/2021/BNFGrammars/
+
+BNF: https://adacomputerscience.org/concepts/trans_bnf (Secciones 2 y 3)
+
