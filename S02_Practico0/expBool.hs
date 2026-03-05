@@ -3,12 +3,12 @@
 
 module ExpBool where
 
-import Tablass -- tablass.hs tiene que estar en la misma carpeta que este archivo
+import Tablas -- tablas.hs tiene que estar en la misma carpeta que este archivo
 
 ------------
 -- SINTAXIS--
 ------------
-data Exp = Lit B | Disy Exp Exp | Conj Exp Exp | Neg Exp | Var Id | Asig Id Exp
+data Exp = Lit B | Disy Exp Exp | Conj Exp Exp | Neg Exp | Var Id | Asig Id Exp deriving (Show)
 
 type B = Bool
 

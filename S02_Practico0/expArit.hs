@@ -3,12 +3,12 @@
 
 module ExpArit where
 
-import Tablass -- tablass.hs tiene que estar en la misma carpeta que este archivo
+import Tablas -- tablas.hs tiene que estar en la misma carpeta que este archivo
 
 ------------
 -- SINTAXIS--
 ------------
-data Exp = Lit Z | Sum Exp Exp | Mul Exp Exp | Op Exp | Var Id | Asig Id Exp
+data Exp = Lit Z | Sum Exp Exp | Mul Exp Exp | Op Exp | Var Id | Asig Id Exp deriving (Show)
 
 type Z = Int
 
