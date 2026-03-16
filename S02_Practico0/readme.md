@@ -1,7 +1,6 @@
 # Semana 2:
 
 ## Clase 1:
-- Terminar TAD Tabla
 - Repaso BNF
 - Ejemplo de especificación de un lenguaje (Exp. Arit. o Exp. Booleanas) -> funcional, con memoria, con memoria y asignación
 
