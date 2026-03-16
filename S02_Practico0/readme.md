@@ -8,6 +8,7 @@
 - Clase de laboratorio: Práctico 0 
 - Leer material de teoría de conjuntos de Aulas
 
+
 -------
 Para profundizar:
 

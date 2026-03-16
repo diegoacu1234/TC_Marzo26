@@ -1,4 +1,4 @@
-module Practico0 where
+module ExpandirPractico0 where
 
 -- GUIA PARA EXPANDIR UN LENGUAJE:
 
@@ -6,7 +6,7 @@ module Practico0 where
 
 -- Paso 1: Necesito un símbolo o notación nueva para poder expresar la operacion cardinal.
 
--- e1 ::= # e1
+-- e ::= # e
 
 -- Con eso puedo escribir ahora: #{1}, #x, #({2} U {5}), etc...
 -- En Haskell:
