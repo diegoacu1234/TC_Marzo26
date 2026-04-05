@@ -18,7 +18,7 @@ Por ejemplo:
 ## Reglas de Sintaxis Importantes
 
 ### Identificadores y constructores
-- **Regla Crítica:** Todos los identificadores (nombres de variables, parámetros de lambdas, etc.) **deben empezar estrictamente con una letra**. Esto no es un requisito de chi, sino de librerías externas que nos facilitan el trabajo.
+- ** Bug identificado:** Todos los identificadores (nombres de variables, parámetros de lambdas, etc.) **deben empezar estrictamente con una letra**. Esto no es un requisito de chi, sino de librerías externas que nos facilitan el trabajo.
 - Pueden contener letras, números, guiones bajos (`_`) o comillas simples (`'`) después del primer carácter. 
 
 ## Estructura de Archivos
