@@ -1,0 +1,1 @@
+(\l. case l of [ Nil -> [] Nil [], Cons -> [x,xs] xs ]) Cons [O[], Cons[S[O[]],Nil[]]]

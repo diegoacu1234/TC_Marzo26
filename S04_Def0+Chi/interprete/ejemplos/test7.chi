@@ -1,0 +1,1 @@
+(rec par. (\n. case n of [O -> [] True[], S -> [x] ((\b. case b of [True -> [] False [], False ->[] True[]]) (par x)) ])) S[S[O[]]]

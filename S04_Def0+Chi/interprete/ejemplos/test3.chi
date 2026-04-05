@@ -1,0 +1,3 @@
+case O[] of [
+    O -> [] True[]
+]
